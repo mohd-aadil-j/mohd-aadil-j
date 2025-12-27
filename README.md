@@ -176,8 +176,8 @@ A microservice-based platform that analyzes resumes and job descriptions to comp
 ## 📫 Contact & Profiles
 - 📧 Email: **mohamadaadilj@gmail.com**
 - 💻 GitHub: *You are here*
-- 🔗 LinkedIn: *(Add your profile link)*
-- ⚔️ Competitive Coding: LeetCode | Codeforces
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohdaadilj/">*Click Me*</a>
+- ⚔️ Competitive Coding: <a href = "https://leetcode.com/u/Mohamad_aadil/">LeetCode</a> | <a href = "https://codeforces.com/profile/aadilj">Codeforces</a>
 
 ---
 
