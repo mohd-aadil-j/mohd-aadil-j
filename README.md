@@ -48,7 +48,7 @@ A Retrieval-Augmented AI tutor that allows students to interact with PDF documen
 
 ---
 
-## 🔍 Autonomous Research & Report Generator
+## [🔍 Autonomous Research & Report Generator](https://rescearehr.streamlit.app/)
 A multi-agent research system that performs web research, gathers information from tools, and generates structured reports automatically.
 
 **Tech:** Python · LangChain · Async Programming · Streamlit
