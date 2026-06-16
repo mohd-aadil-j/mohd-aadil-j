@@ -34,7 +34,7 @@ I'm **Mohamad Aadil J**, an AI & Data Science student passionate about building 
 
 # 🚀 Featured Projects
 
-## 🤖 AI Placement Mentor
+## [🤖 AI Placement Mentor](https://ai-placement-mentor.vercel.app/)
 An AI-powered career assistant that analyzes resumes, evaluates job descriptions, identifies skill gaps, and generates personalized preparation roadmaps.
 
 **Tech:** Node.js · Express.js · FastAPI · MongoDB · LangChain · React · JWT
