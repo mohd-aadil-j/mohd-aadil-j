@@ -1,184 +1,92 @@
-# 👋 Hi, I'm Mohamad Aadil J
+# 👋 Hey! Nice to see you.
 
-🚀 **AI & Backend Engineering Enthusiast | Fast Learner | Problem Solver**
+I'm **Mohamad Aadil J**, an AI & Data Science student passionate about building intelligent systems, scalable backend applications, and AI-powered products.
 
-I am a Computer Science student specializing in **Artificial Intelligence & Data Science**, with strong foundations in **Data Structures, Operating Systems, and Computer Networks**.  
-I enjoy building **reliable backend systems**, integrating **AI into real-world applications**, and learning new technologies quickly through hands-on development.
-
-I focus on writing **clean, maintainable code** and understanding systems from fundamentals to production.
+💡 Currently exploring **Agentic AI, RAG Systems, Distributed Systems, and Enterprise AI Applications.**
 
 ---
 
-## 🎯 Career Objective
-To work in an environment where I can **apply strong CS fundamentals**, rapidly learn new technologies, and contribute to building **scalable, efficient, and reliable software systems**—while growing as a professional engineer.
-
----
-
-## 🧠 What Defines Me
-- Strong grasp of **core computer science concepts**
-- Ability to **learn and adapt quickly**
-- Experience building **AI-backed backend applications**
-- Comfortable working in **team-based and enterprise environments**
-- Passion for problem-solving and system thinking
-
----
-
-## 🛠️ Technical Skill Set
+## 🛠️ Things I Build With
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### Backend & Application Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,sqlite,postman" />
-</p>
+# 🚀 Featured Projects
 
-- RESTful API development  
-- Authentication & Authorization (JWT)  
-- Backend business logic implementation  
-- Microservices-based application design  
-- Database design and integration  
+## 🤖 AI Placement Mentor
+An AI-powered career assistant that analyzes resumes, evaluates job descriptions, identifies skill gaps, and generates personalized preparation roadmaps.
+
+**Tech:** Node.js · Express.js · FastAPI · MongoDB · LangChain · React · JWT
 
 ---
 
-### AI / ML (Applied Engineering)
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+## 📚 RAGFriendTeacher
+A Retrieval-Augmented AI tutor that allows students to interact with PDF documents through semantic search and contextual question answering.
 
-- Retrieval-Augmented Generation (RAG)  
-- LangChain-based workflows  
-- Vector Databases (ChromaDB)  
-- LLM Integrations (Groq, Gemini)  
-- Efficient chunking, indexing, and low-latency retrieval pipelines  
+**Tech:** FastAPI · LangChain · ChromaDB · Groq · Streamlit
 
 ---
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
+## 🔍 Autonomous Research & Report Generator
+A multi-agent research system that performs web research, gathers information from tools, and generates structured reports automatically.
 
-- React (Vite)  
-- Streamlit for AI-enabled dashboards  
+**Tech:** Python · LangChain · Async Programming · Streamlit
 
 ---
 
-### Core CS Foundations
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</p>
+# 🏆 Achievements
 
-- Data Structures & Algorithms  
-- Operating Systems  
-- Computer Networks  
-- Object-Oriented Programming  
+🥈 2nd Place – Paper Presentation (*Robotics in This Era*)
 
----
+🏅 Pre-Finalist – Smart India Hackathon 2025
 
-## 💼 Internship Experience
+🚀 Built & deployed multiple AI-powered applications
 
-### **AI Developer Intern — Twincord Technologies**
-**July 2025 – October 2025**
-
-- Worked with engineering teams to **test, debug, and improve system performance**
-- Assisted in enhancing reliability across multiple application modules
-- Gained exposure to **real-world AI systems and production workflows**
-- Strengthened understanding of collaborative development and code quality
+💡 Passionate about AI Engineering, Backend Systems, and Product Development
 
 ---
 
-## 🚀 Key Projects
+# 📈 Currently Learning
 
-### 🔹 Autonomous Research & Report Generator
-A multi-agent AI system capable of structured web research, tool execution, and automated report generation.
-
-**Key Contributions**
-- Designed async task workflows
-- Implemented tool execution pipelines
-- Automated end-to-end report creation
-
-**Tech Stack**  
-`Python · LangChain · Wikipedia API · FPDF · Streamlit · Async Programming`
+- Agentic AI Systems
+- LangGraph & Multi-Agent Architectures
+- Docker & Cloud Deployment
+- System Design Fundamentals
+- Enterprise AI Applications
 
 ---
 
-### 🔹 RAGFriendTeacher – AI-Powered PDF Tutor
-A scalable RAG-based application that enables fast querying over large PDF documents.
+# 🌐 Connect With Me
 
-**Key Contributions**
-- Optimized chunking and vector indexing
-- Implemented low-latency retrieval pipelines
-- Built REST-based backend services
+📧 **Email:** mohamadaadilj@gmail.com
 
-**Tech Stack**  
-`FastAPI · LangChain · ChromaDB · Groq LLMs · Streamlit · Uvicorn`
+🔗 **LinkedIn:** www.linkedin.com/in/mohdaadilj
 
----
+⚔️ **LeetCode:** https://leetcode.com/u/Mohamad_aadil/
 
-### 🔹 AI Placement Mentor – AI-Driven Career Assistant
-A microservice-based platform that analyzes resumes and job descriptions to compute skill-gap insights.
-
-**Key Contributions**
-- Designed backend APIs with authentication
-- Implemented vector-based resume and JD scoring
-- Integrated AI services into production-ready APIs
-
-**Tech Stack**  
-`Node.js · Express · FastAPI · MongoDB · JWT · LangChain · Gemini API · React`
+🏁 **Codeforces:** https://codeforces.com/profile/aadilj
 
 ---
 
-## 🏆 Achievements
-- Developed and deployed **3+ AI and backend systems**
-- Secured **2nd place** in paper presentation on *“Robotics in This Era”*
-- **Pre-finalist – Smart India Hackathon 2025**  
-  *(AI-based solution for urban waste management)*
-- Strong academic and practical foundation in **DSA and system design**
-
----
-
-## 📜 Certifications
-- **Microsoft Power BI – Associate Data Analyst**
-
----
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-
-### Large Language Models (LLMs)
-- Understanding embeddings, attention, and inference flow  
-- Prompt engineering and evaluation techniques  
-- Cost–latency trade-offs in AI applications  
-
-### Distributed Systems
-- Service-to-service communication  
-- Scalability and fault tolerance concepts  
-- Stateless backend design  
-- Containerization using Docker  
-
-### Enterprise & System Design
-- Designing maintainable, enterprise-grade applications  
-- Logging, monitoring, and performance optimization  
-- Secure and reliable backend architecture  
-
-> 📌 Focused on building **production-ready systems**, not just demos.
-
----
-
-## 📫 Contact & Profiles
-- 📧 Email: **mohamadaadilj@gmail.com**
-- 💻 GitHub: *You are here*
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohdaadilj/">*Click Me*</a>
-- ⚔️ Competitive Coding: <a href = "https://leetcode.com/u/Mohamad_aadil/">LeetCode</a> | <a href = "https://codeforces.com/profile/aadilj">Codeforces</a>
-
----
-
-⭐ *Thank you for visiting my profile. I’m always open to learning, collaboration, and new challenges.*
+> “Building production-ready AI systems one project at a time.”
