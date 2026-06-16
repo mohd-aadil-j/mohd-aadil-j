@@ -41,7 +41,7 @@ An AI-powered career assistant that analyzes resumes, evaluates job descriptions
 
 ---
 
-## 📚 RAGFriendTeacher
+## [📚 RAGFriendTeacher](https://ragfriendteacher.streamlit.app/)
 A Retrieval-Augmented AI tutor that allows students to interact with PDF documents through semantic search and contextual question answering.
 
 **Tech:** FastAPI · LangChain · ChromaDB · Groq · Streamlit
